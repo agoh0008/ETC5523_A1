@@ -4,7 +4,7 @@ This repository contains the work and materials for Assignment 1 of the ETC5523 
 
 The purpose of this Shiny web app is to help users make better-informed decisions regarding their college major by presenting interactive visualizations and providing insights into gender balance, earnings, and employment rates.
 
-This is a Shiny web app designed for the ETC5523 Assessment 1, presenting interactive visualizations and insights obtained from economic data on various college majors. The app focuses on three key aspects of the data:
+## App Features:
 
 1. **Gender-based Representation Comparison:** explore gender balance across various majors.
 
