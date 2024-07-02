@@ -5,6 +5,6 @@ This repository contains the work and materials for Assignment 1 of the ETC5523 
 The purpose of this app is to help users make better-informed decisions regarding their college major by providing insights into gender balance, earnings, and employment rates.
 
 ## App Features
-1. Compare Gender Representation: Dive into gender balance across various majors.
-2. Earnings and Employment Rates: Display median earnings and employment rates for different majors.
-3. Personalized Recommendations: Get personalized college major recommendations based on your preferences through user-friendly drop-down inputs.
+1. Compare Gender Representation: explore gender balance across various majors.
+2. Earnings and Employment Rates: display median earnings and employment rates for different majors.
+3. Personalized Recommendations: get personalized college major recommendations based on your preferences through user-friendly drop-down inputs.
