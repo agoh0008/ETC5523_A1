@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ETC5523: Assignment 1 - Creating an Interactive Web Application using Shiny
 
 This repository contains the work and materials for Assignment 1 of the ETC5523 unit (Communicating with Data).
