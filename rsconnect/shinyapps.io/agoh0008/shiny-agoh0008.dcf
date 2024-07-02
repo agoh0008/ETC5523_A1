@@ -1,0 +1,12 @@
+name: shiny-agoh0008
+title: shiny-agoh0008
+username: agoh0008
+account: agoh0008
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9621904
+bundleId: 7578331
+url: https://agoh0008.shinyapps.io/shiny-agoh0008/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
